@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "最低界隈 - Saitei Kaiwai",
+  "base_artist": "tuki.",
+  "createdAt": "2026-03-10T11:00:08.446504Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最低界隈 - Saitei Kaiwai",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/01_最低界隈_-_Saitei_Kaiwai_tuki..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最低界隈",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/pl_01_最低界隈_tuki..txt"
+    }
+  ]
+}
